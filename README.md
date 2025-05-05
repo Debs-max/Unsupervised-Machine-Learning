@@ -1,0 +1,1 @@
+This project applies **logistic regression**, a supervised machine learning technique, to classify species of penguins using the [Palmer Penguins dataset](https://allisonhorst.github.io/palmerpenguins/).
